@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Halo... Jadi kalian mau kenalan sama Adrianus Tirta? Silahkah ketik "HELLO" untuk memulai.')
+            return bot.say('Hi there!\nI'm the personal bot of Tirta, an entrepreneur from Bandung.\n(https://raw.githubusercontent.com/Tir-ta/EstherBot/master/img/Dive%202.jpg)')\nWant to know more about bots or learn about Esther?'
                 .then(() => 'speak');
         }
     },
