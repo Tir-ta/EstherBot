@@ -3,5 +3,5 @@
     "HELLO": "Let me know what’s interesting to you. %[Education](postback:education) %[Social Media](postback:social_media) %[Interests](postback:interests)",
     "EDUCATION": "He got his bachelor in information technology and right know he is on thesis for his master degree in management.",
     "SOCIAL MEDIA": "You can follow him at %[Facebook](https://www.facebook.com/adrianustirta) %[Twitter](https://twitter.com/adr_tirta) %[LinkedIn](https://www.linkedin.com/in/adrianustirta)",
-    "INTERESTS": "He like play video game. You can invite his as your friend on his steam profile. %[Steam](https://steamcommunity.com/id/Tir-ta/) He also like outdoor activity like parkour, traveling, and diving."
+    "INTERESTS": "He like play video game. You can invite his as your friend on his steam profile. %[Steam](https://steamcommunity.com/id/Tir-ta/) /nHe also like outdoor activity like parkour, traveling, and diving."
 }
