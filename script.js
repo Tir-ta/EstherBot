@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi there!\nI''m the personal bot of Tirta')
+            return bot.say(`Hi there!\nI'm the personal bot of Tirta`)
                 .then(() => 'speak');
         }
     },
