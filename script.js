@@ -15,7 +15,7 @@ module.exports = new Script({
         receive: (bot) => {
             return bot.say(`Hi there!`)
             .then(() => bot.say(`I'm the personal bot of Tirta, an entrepreneur from Bandung.`))
-            .then(() => bot.say(`[esther](https://raw.githubusercontent.com/Tir-ta/EstherBot/master/img/Dive%202.jpg)`))
+            .then(() => bot.say(`![tirta](https://raw.githubusercontent.com/Tir-ta/EstherBot/master/img/Dive%202.jpg)`))
             .then(() => bot.say(`So you want to learn about Tirta? Just say HELLO to get started.`))
             .then(() => 'speak');
         }
