@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say(`Hi there!\nI'm the personal bot of Tirta, an entrepreneur from Bandung.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)`)
+            return bot.say(`So you want to learn about Esther? Just say HELLO to get started.`)
                 .then(() => 'speak');
         }
     },
