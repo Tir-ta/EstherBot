@@ -14,6 +14,7 @@ module.exports = new Script({
     start: {
         receive: (bot) => {
             return bot.say(`Hi there!\nI'm the personal bot of Tirta, an entrepreneur from Bandung.\nSo you want to learn about Tirta?\nJust say HELLO to get started.`)
+            bot.say(`Baris2`)
                 .then(() => 'speak');
         }
     },
